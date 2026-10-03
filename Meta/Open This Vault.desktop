@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Open This Vault
+Comment=Open only this folder as an Obsidian vault (never a parent like ~/z/jh)
+Icon=obsidian-icon
+Terminal=false
+StartupNotify=false
+Categories=Office;
+Path=/home/x/z/kb/personal/mind/bok-nt-expansion-intensification
+Exec=bash -c 'exec "$HOME/.local/bin/dolphin-open-in-obsidian" "$1"' bash "/home/x/z/kb/personal/mind/bok-nt-expansion-intensification"

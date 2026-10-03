@@ -1,0 +1,38 @@
+# Serotonin Expansion
+
+Expansion of the serotonergic system means building new structure: more serotonin receptor density, new dendritic spines, and novel emotional-regulation pathways. The mechanism is receptor upregulation, synaptogenesis, and neurogenesis. The agent sequence is *intermittent antagonist → neurotrophic growth stimulators → dense influx*, and the schedule below is built around the 4-to-6-week upregulation lag.
+
+## The protocol
+
+**Step 1 — Intermittent antagonist (deficit signal).** Briefly reduce serotonergic signaling so the neuron senses a deficit and responds by synthesizing fresh receptors. The framework names a serotonin-deprivation period. The OTC approach is a short, controlled reduction of 5-HT stimulation (cutting back on 5-HTP and any 5-HT boosters for 3–5 days) combined with a mild 5-HT2A antagonist like **LSD micro-dosing** (where legal) or simply a low-tryptophan diet phase.
+
+**Step 2 — Neurotrophic growth stimulators.** Flood the upregulated system with growth factors that drive synaptogenesis and new spine formation.
+
+**Step 3 — Dense influx.** Drive dense, well-timed serotonergic activity into the new architecture to wire it in.
+
+## Stack schedule
+
+| # | Agent | Class | Dose | Timing | Frequency | Cycle |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Serotonin reduction (dietary) | Intermittent antagonist (deficit signal) | Cut 5-HTP + 5-HT boosters to 0 | Days 1–5 | 1×/cycle | 4–6 weeks |
+| 2 | Lion's Mane (Hericium) | Herbal / BDNF + NGF growth stimulator | 1000 mg | Morning + evening | Daily | 4–6 weeks |
+| 3 | Uridine Monophosphate (UMP) | Nucleotide / synaptogenesis | 250–500 mg | Morning | Daily | 4–6 weeks |
+| 4 | DHA (Omega-3) | Fatty acid / membrane + synaptogenesis | 500–1000 mg | With food | Daily | 4–6 weeks |
+| 5 | 5-HTP | Amino acid / dense influx support | 50 mg | Evening, days 6+ | Daily | 4–6 weeks |
+| 6 | Lithium Orotate | Mineral / neurogenesis + BDNF (OTC supplement) | 5–10 mg (elemental Li) | Evening, days 6+ | 3×/week | 4–6 weeks |
+
+**Notes on the schedule.**
+- This is a 4–6 week minimum protocol. The serotonin-deprivation phase (#1) runs for the first ~5 days, then you shift to the growth-stimulator phase (#2–#4) and the dense-influx phase (#5–#6).
+- The serotonin-deprivation phase is the OTC substitute for the framework's prescription serotonergic antagonist. It is milder, so the cycle runs the full 4–6 weeks.
+- Lithium Orotate is the OTC substitute for the framework's prescription lithium. It is much weaker (5–10 mg vs. the prescription 300–900 mg), so the frequency is 3×/week rather than daily.
+- Take a 1–2 week off-cycle after the 4–6 week run to let the new spines consolidate and to avoid serotonin syndrome.
+
+## References
+
+- Wikipedia: [Synaptogenesis](https://en.wikipedia.org/wiki/Synaptogenesis)
+- Wikipedia: [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)
+- → [[References]]
+
+> [!abstract]- Map
+> **Topic.** The expand protocol for serotonin, with a 4–6 week stack schedule.
+> **Home.** [[Home]]

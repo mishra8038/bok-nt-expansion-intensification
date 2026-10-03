@@ -1,0 +1,1 @@
+/home/x/z/env/sys-env-data/obsidian/std-obsidian-vault-template/scripts/launch-test-obsidian.sh
