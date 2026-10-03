@@ -2,7 +2,7 @@ aliases: [Home]
 
 # Neurotransmitter Expansion & Intensification
 
-This book teaches how to structurally reinforce and expand the brain's major neurotransmitter networks — glutamate, acetylcholine, dopamine, serotonin, and GABA — using precursor loading, positive allosteric modulation, and homeostatic upregulation, so that synaptic plasticity is driven without triggering receptor down-regulation or excitotoxicity.
+This book teaches how to structurally reinforce and expand the brain's nine major neurotransmitter networks — glutamate, acetylcholine, dopamine, serotonin, GABA, glycine, norepinephrine, endocannabinoid, and endogenous opioid — using precursor loading, positive allosteric modulation, and homeostatic upregulation, so that synaptic plasticity is driven without triggering receptor down-regulation or excitotoxicity.
 
 ## Foundations
 

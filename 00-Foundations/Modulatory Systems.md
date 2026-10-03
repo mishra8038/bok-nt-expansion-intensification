@@ -1,6 +1,9 @@
 # Modulatory Systems
 
-Beyond the five major systems (glutamate, acetylcholine, dopamine, serotonin, GABA) and glycine, two additional transmitters are **directly loadable as OTC supplements** and modulate the major systems in ways that affect protocol efficacy. They do not warrant full Intensification/Expansion protocols of their own, but they are important to understand when designing stacks.
+Beyond the nine full systems in this book (glutamate, acetylcholine, dopamine, serotonin, GABA, glycine, norepinephrine, endocannabinoid, endogenous opioid), one additional transmitter — **histamine** — is directly loadable as an OTC supplement and modulates the major systems in ways that affect protocol efficacy. It does not warrant a full Intensification/Expansion protocol of its own, but it is important to understand when designing stacks.
+
+> [!note] Norepinephrine
+> Norepinephrine was originally covered here as a modulatory system. It has since been promoted to a full system with its own Intensification and Expansion protocols. See [[Norepinephrine System]] for the complete treatment.
 
 ## Histamine
 
@@ -32,40 +35,10 @@ Histamine is the brain's primary wakefulness and attention transmitter. It is re
 - Excess histamine can cause headaches, flushing, or GI discomfort.
 - **Avoid antihistamines** (e.g. diphenhydramine, cetirizine) during ACh or Dopamine protocols, as they blunt histamine-mediated gating.
 
-## Norepinephrine
-
-Norepinephrine (noradrenaline) is the brain's primary arousal and stress transmitter. It is released by the locus coeruleus and projects widely to the cortex, hippocampus, and amygdala.
-
-### Roles
-
-- **Arousal and attention.** Norepinephrine is the "alertness" transmitter; it sharpens attention and enhances signal-to-noise ratio in cortical circuits.
-- **Modulation of glutamate and dopamine.** Norepinephrine modulates glutamatergic transmission in the prefrontal cortex and gates dopamine release in the striatum.
-- **Stress response.** Norepinephrine is the primary neurotransmitter of the sympathetic nervous system; chronic elevation leads to stress and burnout.
-
-### OTC / Supplement Agents
-
-| Agent | Class | Role |
-| :--- | :--- | :--- |
-| L-Phenylalanine | Amino acid | Precursor for norepinephrine (and dopamine) synthesis |
-| Rhodiola Rosea | Herbal | Adaptogen; modulates norepinephrine and serotonin |
-| Panax Ginseng | Herbal | Adaptogen; modulates norepinephrine and cortisol |
-
-### Relationship to Other Systems
-
-- **Glutamate.** Norepinephrine modulates glutamatergic transmission in the prefrontal cortex; it can enhance or suppress LTP depending on the circuit.
-- **Dopamine.** Norepinephrine and dopamine share a precursor (L-Tyrosine) and are often co-released; the [[Dopamine Intensification]] protocol can indirectly affect norepinephrine.
-- **Serotonin.** Norepinephrine and serotonin are both monoamines and share some regulatory mechanisms; the [[Serotonin Intensification]] protocol can indirectly affect norepinephrine.
-
-### Safety
-
-- L-Phenylalanine is generally safe at 500–1000 mg.
-- Excess norepinephrine can cause anxiety, insomnia, or elevated blood pressure.
-- **Avoid combining** high-dose L-Phenylalanine with MAO inhibitors (e.g. Selegiline) without careful monitoring, as this can precipitate a hypertensive crisis.
-
 ## References
 
 - → [[References]]
 
 > [!abstract]- Map
-> **Topic.** Histamine and norepinephrine: modulatory systems that gate the major NT protocols.
+> **Topic.** Histamine: the modulatory transmitter that gates the major NT protocols.
 > **Home.** [[Home]]
