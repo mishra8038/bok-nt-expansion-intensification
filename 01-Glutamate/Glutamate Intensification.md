@@ -14,11 +14,11 @@ Intensification (reinforcement) of the glutamate system means driving LTP and sy
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | L-Glutamine | Amino acid (precursor) | 1–3 g | Morning, on empty stomach | Daily | 4–6 weeks |
-| 2 | Magnesium L-Threonate | Mineral / NMDA PAM | 1.5–2 g (142 mg elemental Mg) | Morning, with #1 | Daily | 4–6 weeks |
-| 3 | Piracetam | Racetam / AMPA PAM (OTC in many regions) | 1.2–2.4 g | 60–90 min after #1–#2 | 2×/day | 4–6 weeks |
-| 4 | Lion's Mane (Hericium) | Herbal / BDNF + AMPA support | 500–1000 mg | With #3 | Daily | 4–6 weeks |
-| 5 | Alpha-GPC | Choline / glutamate support | 300–600 mg | With #1 | Daily | 4–6 weeks |
+| 1 | L-Glutamine | PR (amino acid) | 1–3 g | Morning, on empty stomach | Daily | 4–6 weeks |
+| 2 | Magnesium L-Threonate | P1 (mineral / NMDA) | 1.5–2 g (142 mg elemental Mg) | Morning, with #1 | Daily | 4–6 weeks |
+| 3 | Piracetam | P1 (racetam / AMPA) | 1.2–2.4 g | 60–90 min after #1–#2 | 2×/day | 4–6 weeks |
+| 4 | Lion's Mane (Hericium) | NA (herbal / BDNF) | 500–1000 mg | With #3 | Daily | 4–6 weeks |
+| 5 | Alpha-GPC | PR (choline) | 300–600 mg | With #1 | Daily | 4–6 weeks |
 
 **Notes on the schedule.**
 - The half-life rule: take #1–#2 (precursor + magnesium) first, then #3 (the AMPA PAM) 60–90 minutes later, at the peak of the precursor load.

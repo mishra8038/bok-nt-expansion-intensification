@@ -14,11 +14,11 @@ Expansion of the glutamate system means building new structure: new dendritic sp
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Magnesium L-Threonate | Mineral / mild NMDA antagonist (OTC substitute for Memantine) | 1.5 g | Morning, days 1–14 | Daily | 4–6 weeks |
-| 2 | Lion's Mane (Hericium) | Herbal / BDNF + NGF growth stimulator | 1000 mg | Morning + evening | Daily | 4–6 weeks |
-| 3 | Uridine Monophosphate (UMP) | Nucleotide / synaptogenesis | 250–500 mg | Morning | Daily | 4–6 weeks |
-| 4 | DHA (Omega-3) | Fatty acid / membrane + synaptogenesis | 500–1000 mg | With food | Daily | 4–6 weeks |
-| 5 | Alpha-GPC | Choline / dense influx support | 300–600 mg | Morning | Daily | 4–6 weeks |
+| 1 | Magnesium L-Threonate | P1 (mineral / mild NMDA modulator) | 1.5 g | Morning, days 1–14 | Daily | 4–6 weeks |
+| 2 | Lion's Mane (Hericium) | NA (herbal / BDNF + NGF) | 1000 mg | Morning + evening | Daily | 4–6 weeks |
+| 3 | Uridine Monophosphate (UMP) | NA (nucleotide / synaptogenesis) | 250–500 mg | Morning | Daily | 4–6 weeks |
+| 4 | DHA (Omega-3) | NA (fatty acid / membrane) | 500–1000 mg | With food | Daily | 4–6 weeks |
+| 5 | Alpha-GPC | PR (choline / dense influx) | 300–600 mg | Morning | Daily | 4–6 weeks |
 
 **Notes on the schedule.**
 - This is a 4–6 week minimum protocol. The upregulation lag means you will not feel a difference in the first two weeks; the structural change is slow transcription, not acute signaling.

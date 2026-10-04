@@ -14,12 +14,12 @@ The sequence follows the universal kinetic rules in [[Universal Kinetic Rules]]:
 
 | Agent | Class | Dose | Timing | Frequency |
 | :--- | :--- | :--- | :--- | :--- |
-| L-Tyrosine | Amino acid | 500–1000 mg | Morning (fasted) | 3×/week |
-| N-Acetylcysteine (NAC) | Amino acid derivative | 600 mg | Morning (fasted) | 3×/week |
-| Curcumin (with piperine) | Polyphenol | 500–1000 mg | 60–90 min after tyrosine | 3×/week |
-| Ashwagandha | Herbal | 300–600 mg | 60–90 min after tyrosine | 3×/week |
-| Aerobic exercise | Behavioral | 20–30 min | 60–90 min after tyrosine | 3×/week |
-| Meditation / Deep Breathing | Behavioral | 10–20 min | 60–90 min after tyrosine | 3×/week |
+| L-Tyrosine | PR (amino acid) | 500–1000 mg | Morning (fasted) | 3×/week |
+| N-Acetylcysteine (NAC) | CO (amino acid derivative) | 600 mg | Morning (fasted) | 3×/week |
+| Curcumin (with piperine) | BI (polyphenol / FAAH) | 500–1000 mg | 60–90 min after tyrosine | 3×/week |
+| Ashwagandha | A2 (herbal / HPA + opioid) | 300–600 mg | 60–90 min after tyrosine | 3×/week |
+| Aerobic exercise | BE (behavioral / endorphin) | 20–30 min | 60–90 min after tyrosine | 3×/week |
+| Meditation / Deep Breathing | BE (behavioral / δ-opioid) | 10–20 min | 60–90 min after tyrosine | 3×/week |
 
 ## Cycle
 

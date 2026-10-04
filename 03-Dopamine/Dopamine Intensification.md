@@ -14,11 +14,11 @@ Intensification (reinforcement) of the dopaminergic system means sharpening moti
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | L-Tyrosine | Amino acid (precursor) | 500–1000 mg | Morning, on empty stomach | Daily | 4–6 weeks |
-| 2 | Mucuna Pruriens | Herbal / L-DOPA source (OTC) | 500–1000 mg (15% L-DOPA) | Morning, with #1 | 3×/week | 4–6 weeks |
-| 3 | Vitex Agnus-Castus (Chasteberry) | Herbal / D2 PAM (OTC) | 400–800 mg | 60–90 min after #1–#2 | Daily | 4–6 weeks |
-| 4 | Selegiline (OTC lozenge) | MAO-B inhibitor (OTC where available) | 1.5–4.5 mg | With #3 | 3×/week | 4–6 weeks |
-| 5 | B-Vitamins (B6, B9, B12) | Vitamins / cofactors for dopamine synthesis | Standard RDA | With food | Daily | 4–6 weeks |
+| 1 | L-Tyrosine | PR (amino acid) | 500–1000 mg | Morning, on empty stomach | Daily | 4–6 weeks |
+| 2 | Mucuna Pruriens | A1 (herbal / L-DOPA source) | 500–1000 mg (15% L-DOPA) | Morning, with #1 | 3×/week | 4–6 weeks |
+| 3 | Vitex Agnus-Castus (Chasteberry) | A2 (herbal / D2 modulator) | 400–800 mg | 60–90 min after #1–#2 | Daily | 4–6 weeks |
+| 4 | Selegiline (OTC lozenge) | BI (MAO-B inhibitor) | 1.5–4.5 mg | With #3 | 3×/week | 4–6 weeks |
+| 5 | B-Vitamins (B6, B9, B12) | CO (vitamins / cofactors) | Standard RDA | With food | Daily | 4–6 weeks |
 
 **Notes on the schedule.**
 - The half-life rule: take #1 (L-Tyrosine) first, then #3–#4 (the D2 PAM + MAO-B inhibitor) 60–90 minutes later, at the peak of the tyrosine load.

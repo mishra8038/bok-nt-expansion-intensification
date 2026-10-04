@@ -14,11 +14,11 @@ Intensification (reinforcement) of the GABA system means sharpening inhibitory t
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | L-Theanine | Amino acid (precursor) | 100–200 mg | Morning, on empty stomach | Daily | 4–6 weeks |
-| 2 | Magnesium (Glycinate) | Mineral / GABA support + calming | 200–400 mg (elemental Mg) | Evening | Daily | 4–6 weeks |
-| 3 | Baicalein (Scutellaria) | Herbal / $GABA_A$ PAM (OTC) | 100–200 mg | 60–90 min after #1 | 3×/week | 4–6 weeks |
-| 4 | Apigenin (Chamomile) | Herbal / $GABA_A$ PAM (OTC) | 50–100 mg | With #3 | 3×/week | 4–6 weeks |
-| 5 | Lemon Balm (Melissa) | Herbal / GABA-T inhibitor (OTC) | 300–600 mg | Evening | 3×/week | 4–6 weeks |
+| 1 | L-Theanine | A3 (amino acid / GABA modulator) | 100–200 mg | Morning, on empty stomach | Daily | 4–6 weeks |
+| 2 | Magnesium (Glycinate) | CO (mineral / GABA support) | 200–400 mg (elemental Mg) | Evening | Daily | 4–6 weeks |
+| 3 | Baicalein (Scutellaria) | P1 ($GABA_A$) | 100–200 mg | 60–90 min after #1 | 3×/week | 4–6 weeks |
+| 4 | Apigenin (Chamomile) | P1 ($GABA_A$) | 50–100 mg | With #3 | 3×/week | 4–6 weeks |
+| 5 | Lemon Balm (Melissa) | BI (GABA-T inhibitor) | 300–600 mg | Evening | 3×/week | 4–6 weeks |
 
 **Notes on the schedule.**
 - The half-life rule: take #1 (L-Theanine) first, then #3–#4 (the $GABA_A$ PAMs) 60–90 minutes later, at the peak of the theanine load.

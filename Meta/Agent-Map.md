@@ -9,7 +9,7 @@ Structural reinforcement and expansion of the brain's major neurotransmitter net
 | `References.md` | References | Textbooks, OTC/herbal/supplement agents, Wikipedia primers | |
 | `Concept Map.md` | Concept Map | Paradigms → systems → intensify/expand → schedules | [[Glossary]] |
 | `00-Foundations/Network Modification Paradigms.md` | Reinforce vs. Expand | The two goals and their agent sequences | [[Glutamate System]] |
-| `00-Foundations/Positive Allosteric Modulators.md` | PAMs | Master table of PAMs with OTC/herbal/supplement substitutes | [[Universal Kinetic Rules]] |
+| `00-Foundations/Positive Allosteric Modulators.md` | PAMs + Class Labels | Master table of PAMs, agonists, antagonists, and modulators with class labels (A1/A2/A3/P1/P2/BI/RI/PR/CO/NA/BE) and OTC/herbal/supplement/prescription options | [[Universal Kinetic Rules]] |
 | `00-Foundations/Universal Kinetic Rules.md` | Kinetics | Half-life, upregulation lag, stimulant burnout | [[Positive Allosteric Modulators]] |
 | `00-Foundations/Modulatory Systems.md` | Modulatory | Histamine and norepinephrine: gate the major protocols | [[Acetylcholine System]] · [[Dopamine System]] |
 | `01-Glutamate/Glutamate System.md` | Glutamate | LTP mechanics + overview | [[Glutamate Intensification]] · [[Glutamate Expansion]] |
@@ -39,4 +39,4 @@ Structural reinforcement and expansion of the brain's major neurotransmitter net
 | `09-Endogenous Opioids/Endogenous Opioid System.md` | Endogenous Opioid | Pain modulation, reward, mood, stress response | [[Endogenous Opioid Intensification]] · [[Endogenous Opioid Expansion]] |
 | `09-Endogenous Opioids/Endogenous Opioid Intensification.md` | Opioid Reinforce | Pain/reward protocol + 4–6 week stack schedule | [[Endogenous Opioid System]] · [[Stack Schedules]] |
 | `09-Endogenous Opioids/Endogenous Opioid Expansion.md` | Opioid Expand | μ/δ upregulation protocol + 4–6 week stack schedule | [[Endogenous Opioid System]] · [[Stack Schedules]] |
-| `06-Stack Schedules/Stack Schedules.md` | Schedules | Master frequency/timing tables for all stacks | [[Universal Kinetic Rules]] |
+| `06-Stack Schedules/Stack Schedules.md` | Schedules | Master frequency/timing tables for all stacks, with class labels and alternative agent options by system | [[Universal Kinetic Rules]] |

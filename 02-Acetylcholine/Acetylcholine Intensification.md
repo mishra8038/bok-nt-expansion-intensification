@@ -14,11 +14,11 @@ Intensification (reinforcement) of the cholinergic system means sharpening atten
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Alpha-GPC | Choline precursor (OTC supplement) | 300–600 mg | Morning, on empty stomach | Daily | 4–6 weeks |
-| 2 | CDP-Choline (Citicoline) | Choline precursor (OTC supplement) | 250–500 mg | Morning, with #1 | Daily | 4–6 weeks |
-| 3 | Galantamine | Nicotinic PAM (OTC supplement) | 4–8 mg | 60–90 min after #1–#2 | 3×/week | 4–6 weeks |
-| 4 | Huperzine A | AChE inhibitor (OTC herbal) | 50–100 µg | With #3 | 3×/week | 4–6 weeks |
-| 5 | Bacopa Monnieri | Herbal / ACh + BDNF support | 300 mg (55% bacosides) | Evening | Daily | 4–6 weeks |
+| 1 | Alpha-GPC | PR (choline) | 300–600 mg | Morning, on empty stomach | Daily | 4–6 weeks |
+| 2 | CDP-Choline (Citicoline) | PR (choline) | 250–500 mg | Morning, with #1 | Daily | 4–6 weeks |
+| 3 | Galantamine | P1 (nicotinic) | 4–8 mg | 60–90 min after #1–#2 | 3×/week | 4–6 weeks |
+| 4 | Huperzine A | BI (AChE inhibitor) | 50–100 µg | With #3 | 3×/week | 4–6 weeks |
+| 5 | Bacopa Monnieri | A3 (herbal / ACh + BDNF) | 300 mg (55% bacosides) | Evening | Daily | 4–6 weeks |
 
 **Notes on the schedule.**
 - The half-life rule: take #1–#2 (choline precursors) first, then #3–#4 (the PAM + AChE inhibitor) 60–90 minutes later, at the peak of the choline load.

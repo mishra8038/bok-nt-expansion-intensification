@@ -14,13 +14,13 @@ The sequence follows the universal kinetic rules in [[Universal Kinetic Rules]]:
 
 | Agent | Class | Dose | Timing | Frequency |
 | :--- | :--- | :--- | :--- | :--- |
-| L-Glycine (reduced) | Amino acid | 0–1 g | Days 1–5 (intermittent) | 3×/week |
-| Lion's Mane | Herbal | 1000 mg | Daily | Daily |
-| Uridine Monophosphate (UMP) | Nucleotide | 250–500 mg | Daily | Daily |
-| DHA (Omega-3) | Fatty acid | 500–1000 mg | Daily | Daily |
-| L-Glycine (full) | Amino acid | 1–3 g | Days 6+ (dense influx) | Daily |
-| Taurine | Amino sulfonic acid | 500–1000 mg | Days 6+ (dense influx) | Daily |
-| Magnesium L-Threonate | Mineral | 1.5 g | Days 6+ (dense influx) | Daily |
+| L-Glycine (reduced) | A1 withdrawal (deficit signal) | 0–1 g | Days 1–5 (intermittent) | 3×/week |
+| Lion's Mane | NA (herbal / BDNF + NGF) | 1000 mg | Daily | Daily |
+| Uridine Monophosphate (UMP) | NA (nucleotide / synaptogenesis) | 250–500 mg | Daily | Daily |
+| DHA (Omega-3) | NA (fatty acid / membrane) | 500–1000 mg | Daily | Daily |
+| L-Glycine (full) | A1 (amino acid / dense influx) | 1–3 g | Days 6+ (dense influx) | Daily |
+| Taurine | P1 (amino sulfonic acid / GlyR) | 500–1000 mg | Days 6+ (dense influx) | Daily |
+| Magnesium L-Threonate | P1 (mineral / NMDA) | 1.5 g | Days 6+ (dense influx) | Daily |
 
 ## Cycle
 

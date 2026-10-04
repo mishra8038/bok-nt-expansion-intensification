@@ -14,12 +14,12 @@ Expansion of the cholinergic system means building new structure: more cholinerg
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Choline reduction (dietary) | Intermittent antagonist (deficit signal) | Cut Alpha-GPC/CDP-Choline to 0 | Days 1–5 | 1×/cycle | 4–6 weeks |
-| 2 | Lion's Mane (Hericium) | Herbal / BDNF + NGF growth stimulator | 1000 mg | Morning + evening | Daily | 4–6 weeks |
-| 3 | Uridine Monophosphate (UMP) | Nucleotide / synaptogenesis | 250–500 mg | Morning | Daily | 4–6 weeks |
-| 4 | DHA (Omega-3) | Fatty acid / membrane + synaptogenesis | 500–1000 mg | With food | Daily | 4–6 weeks |
-| 5 | CDP-Choline (Citicoline) | Choline / dense influx support | 500 mg | Morning, days 6+ | Daily | 4–6 weeks |
-| 6 | Noopept | Peptide / cholinergic + BDNF (OTC in some regions) | 10–20 mg | Morning, days 6+ | 3×/week | 4–6 weeks |
+| 1 | Choline reduction (dietary) | PR withdrawal (deficit signal) | Cut Alpha-GPC/CDP-Choline to 0 | Days 1–5 | 1×/cycle | 4–6 weeks |
+| 2 | Lion's Mane (Hericium) | NA (herbal / BDNF + NGF) | 1000 mg | Morning + evening | Daily | 4–6 weeks |
+| 3 | Uridine Monophosphate (UMP) | NA (nucleotide / synaptogenesis) | 250–500 mg | Morning | Daily | 4–6 weeks |
+| 4 | DHA (Omega-3) | NA (fatty acid / membrane) | 500–1000 mg | With food | Daily | 4–6 weeks |
+| 5 | CDP-Choline (Citicoline) | PR (choline / dense influx) | 500 mg | Morning, days 6+ | Daily | 4–6 weeks |
+| 6 | Noopept | P1 (peptide / cholinergic + BDNF) | 10–20 mg | Morning, days 6+ | 3×/week | 4–6 weeks |
 
 **Notes on the schedule.**
 - This is a 4–6 week minimum protocol. The choline-deprivation phase (#1) runs for the first ~5 days, then you shift to the growth-stimulator phase (#2–#4) and the dense-influx phase (#5–#6).

@@ -14,12 +14,12 @@ Expansion of the GABA system means building new structure: more GABA receptor de
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | GABA reduction (behavioral) | Intermittent antagonist (deficit signal) | Cut L-Theanine + GABA boosters to 0 | Days 1–5 | 1×/cycle | 4–6 weeks |
-| 2 | Ginkgo Biloba (Bilobalide) | Herbal / mild $GABA_A$ antagonist (OTC) | 120–240 mg | Morning, days 1–14 | Daily | 4–6 weeks |
-| 3 | Lion's Mane (Hericium) | Herbal / BDNF + NGF growth stimulator | 1000 mg | Morning + evening | Daily | 4–6 weeks |
-| 4 | Uridine Monophosphate (UMP) | Nucleotide / synaptogenesis | 250–500 mg | Morning | Daily | 4–6 weeks |
-| 5 | DHA (Omega-3) | Fatty acid / membrane + synaptogenesis | 500–1000 mg | With food | Daily | 4–6 weeks |
-| 6 | Magnolia Bark (Honokiol/Magnolol) | Herbal / $GABA_A$ PAM (OTC) | 100–200 mg | Evening, days 6+ | 3×/week | 4–6 weeks |
+| 1 | GABA reduction (behavioral) | A3/PR withdrawal (deficit signal) | Cut L-Theanine + GABA boosters to 0 | Days 1–5 | 1×/cycle | 4–6 weeks |
+| 2 | Ginkgo Biloba (Bilobalide) | P2 (mild $GABA_A$ antagonist) | 120–240 mg | Morning, days 1–14 | Daily | 4–6 weeks |
+| 3 | Lion's Mane (Hericium) | NA (herbal / BDNF + NGF) | 1000 mg | Morning + evening | Daily | 4–6 weeks |
+| 4 | Uridine Monophosphate (UMP) | NA (nucleotide / synaptogenesis) | 250–500 mg | Morning | Daily | 4–6 weeks |
+| 5 | DHA (Omega-3) | NA (fatty acid / membrane) | 500–1000 mg | With food | Daily | 4–6 weeks |
+| 6 | Magnolia Bark (Honokiol/Magnolol) | P1 ($GABA_A$) | 100–200 mg | Evening, days 6+ | 3×/week | 4–6 weeks |
 
 **Notes on the schedule.**
 - This is a 4–6 week minimum protocol. The GABA-deprivation phase (#1) runs for the first ~5 days, then you shift to the growth-stimulator phase (#2–#5) and the dense-influx phase (#6).

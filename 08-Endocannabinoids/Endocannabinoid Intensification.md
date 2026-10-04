@@ -14,11 +14,11 @@ The sequence follows the universal kinetic rules in [[Universal Kinetic Rules]]:
 
 | Agent | Class | Dose | Timing | Frequency |
 | :--- | :--- | :--- | :--- | :--- |
-| Arachidonic Acid (AA) | Fatty acid | 500–1000 mg | Morning (with a meal) | 3×/week |
-| CBD (Cannabidiol) | Phytocannabinoid | 25–50 mg | 60–90 min after AA | 3×/week |
-| CBG (Cannabigerol) | Phytocannabinoid | 10–25 mg | 60–90 min after AA | 3×/week |
-| 5-HTP (optional) | Amino acid | 50–100 mg | With AA (for serotonin co-loading) | 3×/week |
-| Kanna (optional) | Herbal | 300–600 mg | With AA (for serotonin co-loading) | 3×/week |
+| Arachidonic Acid (AA) | PR (fatty acid / eCB precursor) | 500–1000 mg | Morning (with a meal) | 3×/week |
+| CBD (Cannabidiol) | BI (FAAH inhibitor) | 25–50 mg | 60–90 min after AA | 3×/week |
+| CBG (Cannabigerol) | BI (FAAH inhibitor) | 10–25 mg | 60–90 min after AA | 3×/week |
+| 5-HTP (optional) | PR (amino acid / serotonin co-loading) | 50–100 mg | With AA | 3×/week |
+| Kanna (optional) | RI (SERT / serotonin co-loading) | 300–600 mg | With AA | 3×/week |
 
 ## Cycle
 

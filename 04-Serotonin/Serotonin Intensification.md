@@ -14,11 +14,11 @@ Intensification (reinforcement) of the serotonergic system means sharpening emot
 
 | # | Agent | Class | Dose | Timing | Frequency | Cycle |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 5-HTP | Amino acid (precursor) | 50–100 mg | Evening, on empty stomach | Daily | 4–6 weeks |
-| 2 | L-Tryptophan | Amino acid (precursor) | 500–1000 mg | Evening, with #1 | Daily | 4–6 weeks |
-| 3 | CBD (Cannabidiol) | Herbal / 5-HT1A PAM (OTC where legal) | 25–50 mg | 60–90 min after #1–#2 | 3×/week | 4–6 weeks |
-| 4 | Kanna (Sceletium) | Herbal / SERT reuptake blocker (OTC) | 300–600 mg | With #3 | 3×/week | 4–6 weeks |
-| 5 | B-Vitamins (B6, B9, B12) | Vitamins / cofactors for serotonin synthesis | Standard RDA | With food | Daily | 4–6 weeks |
+| 1 | 5-HTP | PR (amino acid) | 50–100 mg | Evening, on empty stomach | Daily | 4–6 weeks |
+| 2 | L-Tryptophan | PR (amino acid) | 500–1000 mg | Evening, with #1 | Daily | 4–6 weeks |
+| 3 | CBD (Cannabidiol) | P1 (5-HT1A) | 25–50 mg | 60–90 min after #1–#2 | 3×/week | 4–6 weeks |
+| 4 | Kanna (Sceletium) | RI (SERT reuptake blocker) | 300–600 mg | With #3 | 3×/week | 4–6 weeks |
+| 5 | B-Vitamins (B6, B9, B12) | CO (vitamins / cofactors) | Standard RDA | With food | Daily | 4–6 weeks |
 
 **Notes on the schedule.**
 - The half-life rule: take #1–#2 (5-HTP + L-Tryptophan) first, then #3–#4 (the 5-HT1A PAM + reuptake blocker) 60–90 minutes later, at the peak of the tryptophan load.

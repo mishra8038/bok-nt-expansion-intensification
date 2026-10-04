@@ -66,6 +66,7 @@ flowchart LR
   G --> LTP[[LTP]]
   G --> NMDA[[NMDA receptor]]
   PAM[[Positive Allosteric Modulators]] --> GI
+   PAM --> CL[[Class Labels]]
   PAM --> AI
   PAM --> DI
   PAM --> SI

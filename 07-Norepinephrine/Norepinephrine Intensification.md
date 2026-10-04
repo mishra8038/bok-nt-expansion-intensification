@@ -14,12 +14,12 @@ The sequence follows the universal kinetic rules in [[Universal Kinetic Rules]]:
 
 | Agent | Class | Dose | Timing | Frequency |
 | :--- | :--- | :--- | :--- | :--- |
-| L-Tyrosine | Amino acid | 500–1000 mg | Morning (fasted) | 3×/week |
-| L-Phenylalanine (optional) | Amino acid | 500 mg | Morning (fasted) | 3×/week |
-| Rhodiola Rosea | Herbal | 300–600 mg | 60–90 min after tyrosine | 3×/week |
-| Panax Ginseng | Herbal | 200–400 mg | 60–90 min after tyrosine | 3×/week |
-| Alpha-GPC (optional) | Choline | 300 mg | With tyrosine (for ACh co-loading) | 3×/week |
-| CDP-Choline (optional) | Choline | 250 mg | With tyrosine (for ACh co-loading) | 3×/week |
+| L-Tyrosine | PR (amino acid) | 500–1000 mg | Morning (fasted) | 3×/week |
+| L-Phenylalanine (optional) | PR (amino acid) | 500 mg | Morning (fasted) | 3×/week |
+| Rhodiola Rosea | A2 (herbal / β2 modulator) | 300–600 mg | 60–90 min after tyrosine | 3×/week |
+| Panax Ginseng | A2 (herbal / β2 modulator) | 200–400 mg | 60–90 min after tyrosine | 3×/week |
+| Alpha-GPC (optional) | PR (choline / ACh co-loading) | 300 mg | With tyrosine | 3×/week |
+| CDP-Choline (optional) | PR (choline / ACh co-loading) | 250 mg | With tyrosine | 3×/week |
 
 ## Cycle
 

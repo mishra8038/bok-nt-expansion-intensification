@@ -7,7 +7,7 @@ This book teaches how to structurally reinforce and expand the brain's nine majo
 ## Foundations
 
 1. [[Network Modification Paradigms]] — the two goals (reinforce vs. expand) and the agent sequences that serve each.
-2. [[Positive Allosteric Modulators]] — the master table of PAMs across every system, with OTC / herbal / supplement substitutes.
+2. [[Positive Allosteric Modulators]] — the master table of PAMs, agonists, antagonists, and modulators across every system, with class labels (A1/A2/A3/P1/P2/BI/RI/PR/CO/NA/BE) and OTC / herbal / supplement / prescription options.
 3. [[Universal Kinetic Rules]] — the timing and safety rules that govern any stack.
 4. [[Modulatory Systems]] — histamine and norepinephrine: the modulatory transmitters that gate the major protocols.
 

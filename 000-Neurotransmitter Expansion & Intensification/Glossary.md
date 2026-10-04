@@ -49,5 +49,18 @@ Each meaning says what the term is, enough to understand it. A bare synonym is n
 | β-Endorphin | An endogenous opioid derived from POMC; central to pain inhibition, euphoria, and stress response. | [[Endogenous Opioid System]] |
 | N-Acetylcysteine (NAC) | Amino acid derivative; glutathione precursor; modulates glutamate and opioid tone. | [[Endogenous Opioid Intensification]] |
 | Ashwagandha | Herbal adaptogen; modulates HPA axis and opioid tone. | [[Endogenous Opioid Intensification]] |
+| Class label (A1/A2/A3/P1/P2/BI/RI/PR/CO/NA/BE) | The pharmacological role an agent plays at the receptor: direct agonist, partial agonist, indirect agonist, PAM, NAM, breakdown inhibitor, reuptake inhibitor, precursor, cofactor, neurotrophic, or behavioral trigger. Every schedule row carries the code in parentheses. | [[Positive Allosteric Modulators]] |
+| NAM (Negative Allosteric Modulator) | A molecule that binds a non-orthosteric site and dampens the receptor's response to the natural transmitter; the class used as the intermittent antagonist in Expansion protocols. | [[Positive Allosteric Modulators]] |
+| Dextromethorphan | An OTC cough suppressant that is also an uncompetitive NMDA antagonist; the OTC substitute for Memantine in the Glutamate Expansion protocol. | [[Glutamate Expansion]] |
+| Yohimbine | An OTC alkaloid that is an $\alpha2$ adrenergic antagonist; releases NE. Used with caution in NE protocols. | [[Norepinephrine Intensification]] |
+| Kava (Piper methysticum) | An OTC herbal $GABA_A$ PAM; anxiolytic. Alternative to Baicalein/Apigenin in GABA protocols. | [[GABA Intensification]] |
+| St. John's Wort (Hypericum) | An OTC herbal weak SERT + NET + DAT reuptake blocker; alternative to Kanna in Serotonin protocols. | [[Serotonin Intensification]] |
+| Saffron (crocin) | An OTC polyphenol that modulates nicotinic + 5-HT signaling; alternative in ACh and Serotonin protocols. | [[Acetylcholine Intensification]] · [[Serotonin Intensification]] |
+| DHEA | A neurosteroid PAM of the NMDA receptor; alternative to Magnesium L-Threonate in Glutamate protocols. | [[Glutamate Intensification]] |
+| D-serine | An amino acid co-agonist at the NMDA glycine site with higher affinity than glycine; alternative to L-Glycine. | [[Glycine Intensification]] |
+| Aniracetam | A racetam AMPA PAM; alternative to Piracetam in Glutamate protocols. | [[Glutamate Intensification]] |
+| CBN (Cannabinol) | A weak CB1 partial agonist; alternative in Endocannabinoid protocols. | [[Endocannabinoid Intensification]] |
+| Capsaicin | A TRPV1 agonist that depletes substance P; indirectly supports endogenous opioid tone. | [[Endogenous Opioid Intensification]] |
+| Caffeine | An adenosine A1/A2 antagonist; indirect AMPA + NE potentiation. Used with caution per the stimulant burnout axiom. | [[Glutamate Intensification]] · [[Norepinephrine Intensification]] |
 
 [[References]] · [[Concept Map]] · [[Home]]

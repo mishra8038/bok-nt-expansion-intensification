@@ -14,11 +14,11 @@ The sequence follows the universal kinetic rules in [[Universal Kinetic Rules]]:
 
 | Agent | Class | Dose | Timing | Frequency |
 | :--- | :--- | :--- | :--- | :--- |
-| L-Glycine | Amino acid | 1–3 g | Morning or evening (fasted) | Daily |
-| Taurine | Amino sulfonic acid | 500–1000 mg | 60–90 min after glycine | Daily |
-| Magnesium L-Threonate | Mineral | 1.5 g | 60–90 min after glycine | Daily |
-| L-Theanine (optional) | Amino acid | 100–200 mg | With glycine (for GABA co-loading) | 3×/week |
-| Magnesium Glycinate (optional) | Mineral | 200–400 mg | With glycine (for GABA co-loading) | 3×/week |
+| L-Glycine | A1 (amino acid / NMDA co-agonist) | 1–3 g | Morning or evening (fasted) | Daily |
+| Taurine | P1 (amino sulfonic acid / GlyR) | 500–1000 mg | 60–90 min after glycine | Daily |
+| Magnesium L-Threonate | P1 (mineral / NMDA) | 1.5 g | 60–90 min after glycine | Daily |
+| L-Theanine (optional) | A3 (amino acid / GABA) | 100–200 mg | With glycine (for GABA co-loading) | 3×/week |
+| Magnesium Glycinate (optional) | CO (mineral / GABA) | 200–400 mg | With glycine (for GABA co-loading) | 3×/week |
 
 ## Cycle
 

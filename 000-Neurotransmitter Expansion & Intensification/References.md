@@ -45,20 +45,19 @@ Real titles only. Before filling a book row, search `/home/x/z/jh/books/PDF_INVE
 | Ginkgo Biloba (Bilobalide) | Herbal | GABA | Mild $GABA_A$ antagonist (OTC). |
 | Magnolia Bark (Honokiol/Magnolol) | Herbal | GABA | $GABA_A$ PAM (OTC). |
 | ALCAR (Acetyl-L-Carnitine) | Amino acid derivative | Dopamine / Acetylcholine | Cholinergic + dopaminergic support. |
-| Noopept | Peptide | Acetylcholine | Cholinergic + BDNF (OTC in some regions). |
-| B-Vitamins (B6, B9, B12) | Vitamins | Dopamine / Serotonin | Cofactors for monoamine synthesis. |
-| L-Glycine | Amino acid | Glycine | NMDA co-agonist + inhibitory transmitter. |
-| Taurine | Amino sulfonic acid | Glycine | NMDA co-agonist substitute. |
-| L-Histidine | Amino acid | Histamine | Precursor for histamine synthesis. |
-| Quercetin | Flavonoid | Histamine | Mast-cell stabilizer; reduces histamine breakdown. |
-| L-Phenylalanine | Amino acid | Norepinephrine | Precursor for norepinephrine synthesis. |
-| Rhodiola Rosea | Herbal | Norepinephrine | Adaptogen; modulates norepinephrine and serotonin. |
-| Panax Ginseng | Herbal | Norepinephrine | Adaptogen; modulates norepinephrine and cortisol. |
-| CBG (Cannabigerol) | Phytocannabinoid | Endocannabinoid | FAAH inhibitor; increases anandamide; anti-inflammatory. |
-| Arachidonic Acid (AA) | Fatty acid | Endocannabinoid | Precursor for 2-AG and anandamide synthesis. |
-| N-Acetylcysteine (NAC) | Amino acid derivative | Endogenous Opioid | Glutathione precursor; modulates glutamate and opioid tone. |
+| Aniracetam | Racetam | Glutamate | AMPA PAM (OTC in many regions). |
+| DHEA | Neurosteroid | Glutamate | NMDA PAM; enhances LTP. |
+| D-serine | Amino acid | Glutamate / Glycine | NMDA co-agonist; higher affinity than glycine. |
+| Dextromethorphan | OTC (cough) | Glutamate | Uncompetitive NMDA antagonist; the OTC Expansion antagonist. |
+| Saffron (crocin) | Polyphenol | Acetylcholine / Serotonin | Modulates nicotinic + 5-HT signaling. |
+| Anacardic acid | Herbal | Acetylcholine | PAM of $\alpha4\beta2$ nicotinic receptors. |
+| St. John's Wort (Hypericum) | Herbal | Serotonin | Weak SERT + NET + DAT reuptake blocker. |
+| Kava (Piper methysticum) | Herbal | GABA | $GABA_A$ PAM; anxiolytic. |
+| Polygala | Herbal | GABA | Mild $GABA_A$ antagonist; the OTC Expansion alternative. |
+| Yohimbine | Alkaloid | Norepinephrine | $\alpha2$ antagonist; releases NE (use with caution). |
+| CBN (Cannabinol) | Phytocannabinoid | Endocannabinoid | Weak CB1 partial agonist. |
 | Capsaicin (Chili Pepper) | Alkaloid | Endogenous Opioid | TRPV1 agonist; depletes substance P; indirectly supports opioid tone. |
-| Ashwagandha | Herbal | Endogenous Opioid | Adaptogen; modulates HPA axis and opioid tone. |
+| Caffeine | Alkaloid | Glutamate / Norepinephrine | Adenosine A1/A2 antagonist; indirect AMPA + NE potentiation. |
 
 ## Local books
 

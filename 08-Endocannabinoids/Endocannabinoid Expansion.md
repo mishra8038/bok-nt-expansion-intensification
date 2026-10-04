@@ -14,13 +14,13 @@ The sequence follows the universal kinetic rules in [[Universal Kinetic Rules]]:
 
 | Agent | Class | Dose | Timing | Frequency |
 | :--- | :--- | :--- | :--- | :--- |
-| Arachidonic Acid (AA) (reduced) | Fatty acid | 0–500 mg | Days 1–5 (intermittent) | 3×/week |
-| Lion's Mane | Herbal | 1000 mg | Daily | Daily |
-| Uridine Monophosphate (UMP) | Nucleotide | 250–500 mg | Daily | Daily |
-| DHA (Omega-3) | Fatty acid | 500–1000 mg | Daily | Daily |
-| Arachidonic Acid (AA) (full) | Fatty acid | 500–1000 mg | Days 6+ (dense influx) | 3×/week |
-| CBD (Cannabidiol) | Phytocannabinoid | 25–50 mg | Days 6+ (dense influx) | 3×/week |
-| CBG (Cannabigerol) | Phytocannabinoid | 10–25 mg | Days 6+ (dense influx) | 3×/week |
+| Arachidonic Acid (AA) (reduced) | PR withdrawal (deficit signal) | 0–500 mg | Days 1–5 (intermittent) | 3×/week |
+| Lion's Mane | NA (herbal / BDNF + NGF) | 1000 mg | Daily | Daily |
+| Uridine Monophosphate (UMP) | NA (nucleotide / synaptogenesis) | 250–500 mg | Daily | Daily |
+| DHA (Omega-3) | NA (fatty acid / membrane) | 500–1000 mg | Daily | Daily |
+| Arachidonic Acid (AA) (full) | PR (fatty acid / dense influx) | 500–1000 mg | Days 6+ (dense influx) | 3×/week |
+| CBD (Cannabidiol) | BI (FAAH inhibitor) | 25–50 mg | Days 6+ (dense influx) | 3×/week |
+| CBG (Cannabigerol) | BI (FAAH inhibitor) | 10–25 mg | Days 6+ (dense influx) | 3×/week |
 
 ## Cycle
 
